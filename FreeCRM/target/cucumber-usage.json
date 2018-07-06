@@ -1,0 +1,92 @@
+[
+  {
+    "source": "^test OneThree$",
+    "steps": [
+      {
+        "name": "test OneThree",
+        "aggregatedDurations": {
+          "average": 0.000059167,
+          "median": 0.000059167
+        },
+        "durations": [
+          {
+            "duration": 0.000059167,
+            "location": "Features/TagTest.feature:60"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^test OneSix$",
+    "steps": [
+      {
+        "name": "test OneSix",
+        "aggregatedDurations": {
+          "average": 0.000067016,
+          "median": 0.000067016
+        },
+        "durations": [
+          {
+            "duration": 0.000067016,
+            "location": "Features/TagTest.feature:69"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^test Seven$",
+    "steps": [
+      {
+        "name": "test Seven",
+        "aggregatedDurations": {
+          "average": 0.000055545,
+          "median": 0.000055545
+        },
+        "durations": [
+          {
+            "duration": 0.000055545,
+            "location": "Features/TagTest.feature:42"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^test Three$",
+    "steps": [
+      {
+        "name": "test Three",
+        "aggregatedDurations": {
+          "average": 0.490366392,
+          "median": 0.490366392
+        },
+        "durations": [
+          {
+            "duration": 0.490366392,
+            "location": "Features/TagTest.feature:32"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^test ten$",
+    "steps": [
+      {
+        "name": "test ten",
+        "aggregatedDurations": {
+          "average": 0.000055544,
+          "median": 0.000055544
+        },
+        "durations": [
+          {
+            "duration": 0.000055544,
+            "location": "Features/TagTest.feature:51"
+          }
+        ]
+      }
+    ]
+  }
+]
